@@ -1,5 +1,34 @@
 {
   "dependencies": {
     "bootstrap": "^5.2.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "version": "1.0.0",
+  "main": "hello-world.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fewerygor/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Ygor Monteiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fewerygor/cursonode/issues"
+  },
+  "homepage": "https://github.com/Fewerygor/cursonode#readme",
+  "description": ""
 }
